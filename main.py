@@ -1,7 +1,7 @@
 #/usr/bin/python
 import os
 import time
-ipaddress = '8.8.8.8'
+#ipaddress = '8.8.8.8'
 print('program start')
 count = 0
 count_ = 0
